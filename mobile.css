@@ -177,13 +177,13 @@ h1.end {
   text-transform: uppercase;
   font-size: clamp(14px, var(--size-14), 15px);
   font-weight: 700;
+  letter-spacing: 2px;
   width: 100%;
   margin-top: clamp(24px, var(--size-24), 32px);
   height: 45px;
   border: none;
   border-radius: var(--size-22-5);
   cursor: pointer;
-  letter-spacing: var(--size-2);
 }
 
 .btn:hover {
